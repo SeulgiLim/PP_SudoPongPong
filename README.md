@@ -1,4 +1,4 @@
-# PP_SudoPongPong
+# SudoPongPong 처음부터 끝까지 혼자서 개발해보기!
 # SudoPongPong **- Android**
 
 개발 기간 : 2021년 08월 01일 ~ 진행중
@@ -21,7 +21,7 @@
 
 ## **[ Preview ]**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cff3516b-ea40-4ca0-bc01-8c23762c24b8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cff3516b-ea40-4ca0-bc01-8c23762c24b8/Untitled.png)
+![image](https://user-images.githubusercontent.com/71672106/127976761-2b68c6f3-a369-406c-90c1-60826c788daa.png)
 
 ---
 

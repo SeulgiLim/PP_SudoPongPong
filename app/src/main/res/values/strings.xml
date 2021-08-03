@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Pongpong</string>
-    <!-- kakao_string.xml 파일 만들고 네이티브 앱키 저장-->
-    <string name="kakao_app_key">295ad097b79243146492a4fbeb166943</string>
-</resources>

@@ -8,6 +8,13 @@
     tools:context=".MainActivity"
     android:background="#D8D8D8">
 
-
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        app:menu="@menu/bottom_nav_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/white"
+        />
 
 </RelativeLayout>
